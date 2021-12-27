@@ -12,3 +12,4 @@ R = 4/14*E(2,2) + 6/14*E(2,4) + 4/14*E(1,3)  #算E
 print("R= %f"%R)
 IG = 0.940 - R  # Gain = I - E
 print("IG= %f"%IG)
+print("jk99")
